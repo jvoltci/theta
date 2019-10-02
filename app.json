@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "theta",
+    "slug": "theta",
+    "description": "It guides to your destination - IVehement, Inc.",
+    "platforms": ["android"],
+    "sdkVersion": "34.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.ivehement.theta"
+    }
+  }
+}
